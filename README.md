@@ -1,32 +1,28 @@
-<a href="https://qcadoo.com"><img src="https://cloud.githubusercontent.com/assets/513146/25782749/bc50ca98-3350-11e7-8837-64fde0f16d48.png" alt="qcadoo MES" /></a>
-![beautiful screenshot](https://cloud.githubusercontent.com/assets/513146/25784436/63e0b7c0-336d-11e7-8124-75f860e6f1f0.png)
-# qcadoo MES
-
-qcadoo MES is an Internet application for production management targeted at small and medium companies.It combines the functions of large ERP systems, adapting it to the specific character of Small and Medium Companies.
-
-## Quick start
-
-Choose one of the following options:
-
-1. Download the latest binary stable release from
-   [GitHub Releases](https://github.com/qcadoo/mes/releases/latest)
-2. Build qcadoo MES from sources
-   with [this instruction](https://qcadoo.atlassian.net/wiki/display/QCDMESDOC/Building+MES+from+source+code+-+tutorial)
-
-## Community vs Commercial version
-
-qcadoo MES comes in two different versions:
-- Community version - the Open Source version from this repo
-- Commercial version - the version developed and sold by [Qcadoo Limited](https://qcadoo.com/en/)
-
-
-Commercial version provides i.e.
-- full support
-- SaaS deployment
-- REST API for integration
-- ready integration modules with popular ERP software, Pipedrive, SCADA
-- additional features (like i.e. Gantt planning, warehouse material flow, maintenance planning module and others)
-
-## Licensing
-
-The code is available under the [GNU AGPLv3](LICENSE.txt).
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><p dir="auto"><a href="https://qcadoo.com" rel="nofollow"><img src="https://cloud.githubusercontent.com/assets/513146/25782749/bc50ca98-3350-11e7-8837-64fde0f16d48.png" alt="qcadoo MES" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://cloud.githubusercontent.com/assets/513146/25784436/63e0b7c0-336d-11e7-8124-75f860e6f1f0.png"><img src="https://cloud.githubusercontent.com/assets/513146/25784436/63e0b7c0-336d-11e7-8124-75f860e6f1f0.png" alt="漂亮的截图" style="max-width: 100%;"></a></p>
+<h1 tabindex="-1" dir="auto"><a id="user-content-qcadoo-mes" class="anchor" aria-hidden="true" tabindex="-1" href="#qcadoo-mes"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">qcadoo MES</font></font></h1>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">qcadoo MES是一款针对中小企业的生产管理互联网应用，它结合了大型ERP系统的功能，适应中小企业的具体特点。</font></font></p>
+<h2 tabindex="-1" dir="auto"><a id="user-content-quick-start" class="anchor" aria-hidden="true" tabindex="-1" href="#quick-start"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">快速开始</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">选择以下选项之一：</font></font></p>
+<ol dir="auto">
+<li><font style="vertical-align: inherit;"><a href="https://github.com/qcadoo/mes/releases/latest"><font style="vertical-align: inherit;">从GitHub Releases</font></a><font style="vertical-align: inherit;">下载最新的二进制稳定版本
+</font></font><a href="https://github.com/qcadoo/mes/releases/latest"><font style="vertical-align: inherit;"></font></a></li>
+<li><font style="vertical-align: inherit;"><a href="https://qcadoo.atlassian.net/wiki/display/QCDMESDOC/Building+MES+from+source+code+-+tutorial" rel="nofollow"><font style="vertical-align: inherit;">使用此指令</font></a><font style="vertical-align: inherit;">从源构建 qcadoo MES</font></font><a href="https://qcadoo.atlassian.net/wiki/display/QCDMESDOC/Building+MES+from+source+code+-+tutorial" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+</ol>
+<h2 tabindex="-1" dir="auto"><a id="user-content-community-vs-commercial-version" class="anchor" aria-hidden="true" tabindex="-1" href="#community-vs-commercial-version"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区版与商业版</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">qcadoo MES 有两&ZeroWidthSpace;&ZeroWidthSpace;个不同的版本：</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">社区版本 - 此存储库中的开源版本</font></font></li>
+<li><font style="vertical-align: inherit;"><a href="https://qcadoo.com/en/" rel="nofollow"><font style="vertical-align: inherit;">商业版-由Qcadoo Limited</font></a><font style="vertical-align: inherit;">开发和销售的版本</font></font><a href="https://qcadoo.com/en/" rel="nofollow"><font style="vertical-align: inherit;"></font></a></li>
+</ul>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">商业版提供ie</font></font></p>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全力支持</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SaaS部署</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于集成的 REST API</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">与流行的 ERP 软件、Pipedrive、SCADA 集成模块</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">附加功能（如甘特图规划、仓库物料流、维护规划模块等）</font></font></li>
+</ul>
+<h2 tabindex="-1" dir="auto"><a id="user-content-licensing" class="anchor" aria-hidden="true" tabindex="-1" href="#licensing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">许可</font></font></h2>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">该代码可在</font></font><a href="/qcadoo/mes/blob/master/LICENSE.txt"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">GNU AGPLv3</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">下获取。</font></font></p>
+</article></div>
